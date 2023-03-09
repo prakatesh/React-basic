@@ -1,0 +1,22 @@
+[
+    {
+        "name":"audi",
+        "price":"500",
+        "img":"./Images/audi.jpg"
+    },
+    {
+        "name":"benz",
+        "price":"500",
+        "img":"./Images/benz.jpg"
+    },
+    {
+        "name":"swift",
+        "price":"1000",
+        "img":"./Images/swift.jpg"
+    },
+    {
+        "name":"i20",
+        "price":"1000",
+        "img":"./Images/i20.jpg"
+    }
+]

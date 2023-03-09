@@ -1,0 +1,17 @@
+.card1
+{
+    margin-top: 2vh;
+    border-radius: 5%;
+    line-height:1vh;
+    box-shadow: rgba(26, 25, 25, 0.35) 5px 5px 15px;
+}
+.card1:hover{
+    transform: rotateX('angle');
+}
+img{padding-bottom: 1vh;}
+.card {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    grid-gap: 5px;
+    margin-left: 1vh;
+  }

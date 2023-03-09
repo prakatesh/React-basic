@@ -1,0 +1,13 @@
+.nav1 a{
+    text-decoration: none;
+    padding-left: 5vh;
+    color: white;
+    
+}
+.nav1 
+{
+    /* float: right; */
+    line-height: 5vh;
+    background-color: rgb(15, 13, 13);
+}
+
